@@ -4,11 +4,6 @@ This project contains automated API tests for all available endpoints listed in 
 
 All tests are organized in a single test file located at: **cypress/e2e/dummyjson.cy.js**
 
-
-## 📌 Repository
-
-GitHub: [https://github.com/natashacallula/API-test-cypress-dummyJson](https://github.com/natashacallula/API-test-cypress-dummyJson)
-
 ## 🚀 Tech Stack
 
 - **Cypress** – JavaScript End-to-End Testing Framework
@@ -32,6 +27,7 @@ This test suite covers **all available endpoints** from DummyJSON, including:
 
 ### 1. Clone the repository
 git clone https://github.com/natashacallula/API-test-cypress-dummyJson.git
+
 cd API-test-cypress-dummyJson
 
 ### 2. Install dependencies
@@ -39,11 +35,6 @@ npm install
 
 ### 3. Run Cypress
 npx cypress open
-
-## 📁 Folder Structure
-cypress/
-└── e2e/
-    └── dummyjson.cy.js   # All tests are written in this single file
 
 ## 📌 Notes
 1. All tests use the public [DummyJSON API](https://dummyjson.com/).
