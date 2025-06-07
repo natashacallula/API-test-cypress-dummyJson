@@ -23,6 +23,11 @@ This test suite covers **all available endpoints** from DummyJSON, including:
 - Authentication (where available)
 - Response validation: status codes, body structure, specific fields
 
+## 📄 Postman Documentation
+You can view the documented collection of API requests here:
+
+👉 [Postman API Docs – DummyJSON Test Collection](https://documenter.getpostman.com/view/24794114/2sB2x2Lv1T)
+
 ## 🧪 How to Run the Tests
 
 ### 1. Clone the repository
